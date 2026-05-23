@@ -1,0 +1,15 @@
+JOB1001|Software Developer|Develop web applications using Java and Spring Boot|techcorp|TechCorp Solutions
+JOB1002|Data Analyst|Analyze business data and create reports|techcorp|TechCorp Solutions
+JOB1003|Civil Engineer|Design and oversee construction projects|buildco|BuildCo Engineering
+JOB1004|Project Manager|Manage construction project timelines and budgets|buildco|BuildCo Engineering
+JOB1005|UI/UX Designer|Create modern user interfaces and design systems|designhub|DesignHub Creative
+JOB1006|Graphic Designer|Design marketing materials and brand assets|designhub|DesignHub Creative
+JOB1007|Machine Learning Engineer|Build and deploy ML models for predictive analytics|datawise|DataWise Analytics
+JOB1008|Database Administrator|Manage and optimize SQL and NoSQL databases|datawise|DataWise Analytics
+JOB1009|Solar Panel Technician|Install and maintain solar energy systems|greentech|GreenTech Energy
+JOB1010|Environmental Consultant|Assess environmental impact of energy projects|greentech|GreenTech Energy
+JOB1011|Frontend Developer|Build responsive web UIs with React and TypeScript|techcorp|TechCorp Solutions
+JOB1012|Site Supervisor|Supervise daily construction activities on site|buildco|BuildCo Engineering
+JOB1013|Motion Designer|Create animations and video content for clients|designhub|DesignHub Creative
+JOB1014|Business Intelligence Analyst|Develop dashboards and BI reports using Power BI|datawise|DataWise Analytics
+JOB1015|Electrical Engineer|Design electrical systems for renewable energy plants|greentech|GreenTech Energy

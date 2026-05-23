@@ -1,0 +1,15 @@
+ADMIN,admin,admin123
+COMPANY,techcorp,pass123,TechCorp Solutions
+COMPANY,buildco,pass456,BuildCo Engineering
+COMPANY,designhub,pass321,DesignHub Creative
+COMPANY,datawise,pass654,DataWise Analytics
+COMPANY,greentech,pass111,GreenTech Energy
+EMPLOYEE,john,pass789
+EMPLOYEE,sarah,pass101
+EMPLOYEE,mike,pass202
+EMPLOYEE,emma,pass303
+EMPLOYEE,ali,pass404
+EMPLOYEE,fatima,pass505
+EMPLOYEE,david,pass606
+EMPLOYEE,zara,pass707
+EMPLOYEE,ash,111
