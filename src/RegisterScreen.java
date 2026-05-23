@@ -1,5 +1,3 @@
-
-// File: RegisterScreen.java
 import javax.swing.*;
 import java.awt.*;
 

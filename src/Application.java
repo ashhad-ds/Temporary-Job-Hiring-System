@@ -1,4 +1,3 @@
-// File: Application.java
 public class Application {
     private String applicationId;
     private String employeeUsername;

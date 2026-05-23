@@ -1,5 +1,3 @@
-
-// File: EmployeeDashboard.java
 import javax.swing.*;
 import javax.swing.event.*;
 import java.awt.*;

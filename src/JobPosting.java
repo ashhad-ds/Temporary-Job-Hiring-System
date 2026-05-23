@@ -1,4 +1,3 @@
-// File: JobPosting.java
 public class JobPosting {
     private String jobId;
     private String title;

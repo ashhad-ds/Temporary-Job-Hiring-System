@@ -1,4 +1,3 @@
-// File: Company.java
 public class Company extends User {
     private String companyName;
 
